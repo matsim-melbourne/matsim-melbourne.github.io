@@ -1,3 +1,4 @@
+
 ## What is AToM​
 
 AToM is a city-scale multi-modal transport simulation, modelling a full day in the transportation system of Melbourne for understanding intended and unintended consequences of a change in the environment on individuals’ travel behaviour​.
@@ -21,6 +22,12 @@ The core AToM development team includes:
 - Dr Dhirendra Singh,
 - Dr Alan Both,
 - Ms Mahsa Abdollahyar,
+
+## Selected publications
+
+- Jafari, A., Both, A., Singh, D., Gunn, L., & Giles-Corti, B. (2022). Building the road network for city-scale active transport simulation models. Simulation Modelling Practice and Theory, 114, 102398. 
+- Both, A., Singh, D., Jafari, A., Giles-Corti, B., & Gunn, L. (2021). An Activity-Based Model of Transport Demand for Greater Melbourne. arXiv preprint arXiv:2111.10061. 
+- Jafari, A., Singh, D., Both, A., Abdollahyar, M., Gunn, L., Pemberton, S., & Giles-Corti, B. (2021). Activity-based and agent-based Transport model of Melbourne (AToM): an open multi-modal transport simulation model for Greater Melbourne. arXiv preprint arXiv:2112.12071. 
 
 ## Partner with us​
 
