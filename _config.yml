@@ -1,11 +1,6 @@
-title: AToM
-author:
-  name: jxafshin
-  email: jxafshin@gmail.com
+title: Activity-based and agent-based Transport model of Melbourne
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AToM is a city-scale multi-modal transport simulation, modelling a full day in the transportation system of Melbourne for understanding intended and unintended consequences of a change in the environment on individuals’ travel behaviour​.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
