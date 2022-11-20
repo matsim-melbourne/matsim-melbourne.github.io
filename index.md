@@ -1,5 +1,3 @@
-# AToM​: The Activity-based and agent-based transport model of Melbourne
-
 ## What is AToM​
 
 AToM is a city-scale multi-modal transport simulation, modelling a full day in the transportation system of Melbourne for understanding intended and unintended consequences of a change in the environment on individuals’ travel behaviour​.
