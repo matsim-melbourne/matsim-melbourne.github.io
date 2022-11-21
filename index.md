@@ -7,9 +7,8 @@ AToM is an open-source simulation model that to represent mobility on a typical 
 AToM includes transportation by car, public transport, cycling, and walking and models travel behaviours at an individual traveller and road segment level. ​Using the baseline mobility of Melbourne captured in AToM, it is possible to examine impacts of “what-if” built environment interventions on travel behaviour​.
 
 Watch a video of the daily activity distribution of a 10% sample of Melbourne's population from AToM:
-[![Activity distribution]
-(https://img.youtube.com/vi/HoKHLTVHwWE/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=HoKHLTVHwWE)
+
+[![Activity distribution](https://img.youtube.com/vi/HoKHLTVHwWE/maxresdefault.jpg)](https://www.youtube.com/watch?v=HoKHLTVHwWE)
 
 
 ## Why use AToM
