@@ -18,10 +18,10 @@ AToM includes transportation by car, public transport, cycling, and walking and 
 
 The core AToM development team includes:
 
-- Dr Afshin Jafari,
-- Dr Dhirendra Singh,
-- Dr Alan Both,
-- Ms Mahsa Abdollahyar,
+- [Dr Dhirendra Singh](https://www.rmit.eu/content/rmit-ui/en/contact/staff-contacts/academic-staff/s/singh-dr-dhirendra), Computer Scientist, Data61, CSIRO; School of Computing Technologies, RMIT University;
+- [Dr Afshin Jafari](https://cur.org.au/people/afshin-jafari/), Computational urban researcher and data scientist, Centre for Urban Research, RMIT University;
+- [Dr Alan Both](https://cur.org.au/people/dr-alan-both/), Geo-spatial data scientist and transport modeller, Centre for Urban Research, RMIT University;
+- [Ms Mahsa Abdollahyar](https://cur.org.au/people/mahsa-abdollahyar/), Computer scientist and agent-based modeller, School of Computing Technologies, RMIT University;
 
 ## Selected publications
 
