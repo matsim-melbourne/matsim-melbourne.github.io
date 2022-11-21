@@ -1,10 +1,10 @@
 
 ## What is AToM​
 
-AToM is a city-scale multi-modal transport simulation, modelling a full day in the transportation system of Melbourne for understanding intended and unintended consequences of a change in the environment on individuals’ travel behaviour​.
-AToM is an open-source simulation model that to represent mobility on a typical mid-weekday in Melbourne. ​
+AToM is a city-scale multi-modal transport simulation, modelling a full day in the transportation system of Melbourne for understanding intended and unintended consequences of a change in the environment on individuals’ travel behaviour.
+AToM is an open-source simulation model that to represent mobility on a typical mid-weekday in Melbourne.
 
-AToM includes transportation by car, public transport, cycling, and walking and models travel behaviours at an individual traveller and road segment level. ​Using the baseline mobility of Melbourne captured in AToM, it is possible to examine impacts of “what-if” built environment interventions on travel behaviour​.
+AToM includes transportation by car, public transport, cycling, and walking and models travel behaviours at an individual traveller and road segment level. Using the baseline mobility of Melbourne captured in AToM, it is possible to examine impacts of “what-if” built environment interventions on travel behaviour.
 
 Watch a video of the daily activity distribution of a 10% sample of Melbourne's population from AToM:
 
@@ -16,10 +16,10 @@ Watch a video of the daily activity distribution of a 10% sample of Melbourne's 
 - AToM creates a realistic representation of the transportation sytem by creating the traffic demand based on individuals’ activities throughout the day;
 - AToM is multi-modal and captures the impact of changes in one mode on mode choice and route choice of all four main modes of travel;
 - AToM is open-source to maximise the clarify of model assumptions and processes and to make future collaborations more effective;
-- Using AToM it is possible to includes individual’s heterogenous behaviours in their mode and route choice​;
--​ AToM is developed by a multi-disciplinary team of experts in transport modelling, AI, GIS, and public health and built-environment.
+- Using AToM it is possible to includes individual’s heterogenous behaviours in their mode and route choice;
+- AToM is developed by a multi-disciplinary team of experts in transport modelling, AI, GIS, and public health and built-environment.
 
-## Who were are
+## Who we are
 
 The core AToM development team includes:
 
