@@ -8,7 +8,7 @@ AToM includes transportation by car, public transport, cycling, and walking and 
 
 Watch a video of the daily activity distribution of a 10% sample of Melbourne's population from AToM:
 
-[![Activity distribution](https://img.youtube.com/vi/HoKHLTVHwWE/maxresdefault.jpg)](https://www.youtube.com/watch?v=HoKHLTVHwWE)
+[![Activity distribution](https://i9.ytimg.com/vi_webp/HoKHLTVHwWE/mqdefault.webp?v=646e03a4&sqp=CMiGuKMG&rs=AOn4CLBM6RfNGgjcF2a_9ya11qIt-66bUw)](https://www.youtube.com/watch?v=HoKHLTVHwWE)
 
 
 ## Why use AToM
@@ -23,8 +23,8 @@ Watch a video of the daily activity distribution of a 10% sample of Melbourne's 
 
 The core AToM development team includes:
 
-- [Dr Dhirendra Singh](https://www.rmit.eu/content/rmit-ui/en/contact/staff-contacts/academic-staff/s/singh-dr-dhirendra), Computer Scientist, Data61, CSIRO; School of Computing Technologies, RMIT University;
-- [Dr Afshin Jafari](https://cur.org.au/people/afshin-jafari/), Computational urban researcher and data scientist, Centre for Urban Research, RMIT University;
+- [Dr Afshin Jafari](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/j/jafari-dr-afshin), Travel behaviour modeller and data scientist, Centre for Urban Research, RMIT University;
+- [Dr Dhirendra Singh](https://people.csiro.au/S/D/dhirendra-singh), Computer Scientist, Data61, CSIRO; School of Computing Technologies, RMIT University;
 - [Dr Alan Both](https://cur.org.au/people/dr-alan-both/), Geo-spatial data scientist and transport modeller, Centre for Urban Research, RMIT University;
 - [Ms Mahsa Abdollahyar](https://cur.org.au/people/mahsa-abdollahyar/), Computer scientist and agent-based modeller, School of Computing Technologies, RMIT University;
 
