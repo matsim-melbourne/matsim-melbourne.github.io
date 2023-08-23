@@ -8,8 +8,11 @@ AToM includes transportation by car, public transport, cycling, and walking and 
 
 Watch a video of the daily activity distribution of a 10% sample of Melbourne's population from AToM:
 
-[![Activity distribution](https://i9.ytimg.com/vi_webp/HoKHLTVHwWE/mqdefault.webp?v=646e03a4&sqp=CMiGuKMG&rs=AOn4CLBM6RfNGgjcF2a_9ya11qIt-66bUw)](https://www.youtube.com/watch?v=HoKHLTVHwWE)
+[![Activity distribution](https://i9.ytimg.com/vi_webp/HoKHLTVHwWE/mq2.webp?sqp=CJzflqcG&rs=AOn4CLCARlRg0JzaDHKRDSmZu7FBMaaYpA)](https://www.youtube.com/watch?v=HoKHLTVHwWE)
 
+And a viedo of traveller in Greater Melbourne in AToM moving to their destination using the road network:
+
+[![Agents movement](https://i9.ytimg.com/vi_webp/z9pw5orqw7I/mq1.webp?sqp=CJzflqcG-oaymwEmCMACELQB8quKqQMa8AEB-AH2B4AC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAPgVgeq0T8xuk6BiG97ol1cmTbKg)](https://youtu.be/z9pw5orqw7I)
 
 ## Why use AToM
 
