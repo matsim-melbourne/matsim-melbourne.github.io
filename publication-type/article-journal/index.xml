@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article-journal | AToM</title>
+    <link>https://matsim-melbourne.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://matsim-melbourne.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>article-journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matsim-melbourne.github.io/media/icon_hu733b5b8fe73c212e293c9bd93726d78d_4988_512x512_fill_lanczos_center_3.png</url>
+      <title>article-journal</title>
+      <link>https://matsim-melbourne.github.io/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Building the road network for city-scale active transport simulation models</title>
+      <link>https://matsim-melbourne.github.io/publication/2022-network/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matsim-melbourne.github.io/publication/2022-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

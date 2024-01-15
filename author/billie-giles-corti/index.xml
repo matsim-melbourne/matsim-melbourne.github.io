@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billie Giles-Corti | AToM</title>
+    <link>https://matsim-melbourne.github.io/author/billie-giles-corti/</link>
+      <atom:link href="https://matsim-melbourne.github.io/author/billie-giles-corti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Billie Giles-Corti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matsim-melbourne.github.io/media/icon_hu733b5b8fe73c212e293c9bd93726d78d_4988_512x512_fill_lanczos_center_3.png</url>
+      <title>Billie Giles-Corti</title>
+      <link>https://matsim-melbourne.github.io/author/billie-giles-corti/</link>
+    </image>
+    
+    <item>
+      <title>Building the road network for city-scale active transport simulation models</title>
+      <link>https://matsim-melbourne.github.io/publication/2022-network/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matsim-melbourne.github.io/publication/2022-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity-based and agent-based Transport model of Melbourne (AToM): an open multi-modal transport simulation model for Greater Melbourne</title>
+      <link>https://matsim-melbourne.github.io/publication/2021-atom/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://matsim-melbourne.github.io/publication/2021-atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Activity-Based Model of Transport Demand for Greater Melbourne</title>
+      <link>https://matsim-melbourne.github.io/publication/2021-virtual-population/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://matsim-melbourne.github.io/publication/2021-virtual-population/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
